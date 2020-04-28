@@ -1,0 +1,7 @@
+<addon name="PopulationTraitCoalescent" version="1.0.0">
+    <depends on="beast2" atleast="2.5.2"/>
+    <depends on="Mascot" atleast="1.2.2"/>
+
+    <!-- Add other dependencies as necessary. -->
+</addon>
+        
